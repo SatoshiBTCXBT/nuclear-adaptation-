@@ -1,0 +1,109 @@
+                       <event name="OnMenuSelection">OnMenuHelpAbout</event>
+	
+                        <event name="OnMenuSelection">OnMenuHelpAbout</event>
+	
+                        <event name="OnUpdateUI"></event>
+	
+                        <event name="OnUpdateUI"></event>
+	
+                    </object>
+	
+                  </object>
+	
+                </object>
+	
+              </object>
+	
+            </object>
+	
+          </object>
+	
+       <object class="wxToolBar" expandido=" 0 ">
+	
+       <object class="wxToolBar" expandido=" 1 ">
+	
+                <property name="bg"></property>
+	
+                <property name="bg"></property>
+	
+                <property name="bitmapsize">20,20</property>
+	
+                <property name="bitmapsize">20,20</property>
+	
+                <property name="context_help"></property>
+	
+                <property name="context_help"></property>
+	
+                <property name="enabled">1</property>
+	
+                <property name="enabled">1</property>
+	
+                <property name="fg"></property>
+	
+                <property name="fg"></property>
+
+
+	
+                        </object>
+	
+                      </object>
+	
+                    </object>
+	
+                  </object>
+	
+                </object>
+	
+              </object>
+	
+            </object>
+	
+          </object>
+	
+        </object>
+	
+      </object>
+	
+        <object class="Dialog" expandido=" 1 ">
+	
+        <object class="Dialog" expandido=" 0 ">
+	
+            <property name="bg"></property>
+	
+            <property name="bg"></property>
+	
+            <property name="center"></property>
+	
+            <property name="center"></property>
+	
+            <property name="context_help"></property>
+	
+            <property name="context_help"></property>
+	
+            <property name="enabled">1</property>
+	
+            <property name="enabled">1</property>
+	
+            <property name="extra_style"></property>
+	
+            <property name="extra_style"></property>
+ 
+
+	
+                        </object>
+	
+                      </object>
+	
+                    </object>
+	
+                  </object>
+	
+                </object>
+	
+              </object>
+	
+            </object>
+	
+          </object>
+	
+        </object>
