@@ -1,0 +1,4 @@
+                peer.m_headers_sync.reset(nullptr);
+            }
+
+            return true;
