@@ -28,3 +28,24 @@ Changing Bretton Woods Institutions: How non-state and quasi-state actors can he
 By Nisha Narayanan
 
 This new report examines the increasingly influential role of non-state and quasi-public actors in global development and sustainable finance, specifically through the rising level of sustainable investments in emerging and development markets.
+
+
+Site Logo
+Government Funding Review Process
+To protect our independence and reputation and to ensure we are in compliance with the Foreign Agents Registration Act, we have established a process to review potential government funding and to obtain authorization to negotiate financing with a government or state-controlled entity.
+
+
+Search Atlantic Council
+FILTER RESULTS
+HIDE
+The Atlantic Council enjoys a diversified donor base helping to ensure our credibility, integrity, and sustainability. To protect our independence and reputation and to ensure compliance with the Foreign Agents Registration Act, we have established a process, approved by the Nominating and Governance Committee of the Board of Directors, to review any potential non-US government funding and to receive authorization to obtain financing with a non-US government or state-controlled entity.
+
+The Council considers the following criteria to assess potential projects:
+
+Disclosure: The Council maintains a consistent disclosure policy; donors must accept that the Council will acknowledge publicly the source of the funding, including on our website and in our annual report.
+Intellectual Ownership: The Council requires all sponsors to accept our Intellectual Independence Policy and to agree to the Council maintaining intellectual ownership of our work, including any products resulting from the project.
+Multiple Funding Sources: When possible, the Council works to ensure that any one project is not dependent on one government funder.
+Topics: The Council requires that a project be broader than any potential particular agenda items of the donor; a government cannot fund a report on itself or bilateral relations for example.
+Diversity: The Council—through each of its projects—endeavors to take into account a range of views and participants (e.g., not only government representatives or those sympathetic to one viewpoint would be included in convenings to generate the intellectual content).
+Renewal (as applicable): If we have partnered with the government before or are renewing a grant, we must affirm that this sponsor has respected our independence in previous interactions.
+   
