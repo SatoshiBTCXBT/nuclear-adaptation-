@@ -1,0 +1,576 @@
+<html lang="en-US" class="">
+ <head> 
+  <meta charset="UTF-8"> 
+  <script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="profile" href="https://gmpg.org/xfn/11"> 
+  <meta name="facebook-domain-verification" content="brcbtbhpmq1wi5r01io58a9ox64p8b"> 
+  <link rel="stylesheet" href="https://use.typekit.net/abr0lou.css"> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet"> 
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"> 
+  <!-- Google Tag Manager for WordPress by gtm4wp.com --> 
+  <script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script> 
+  <!-- End Google Tag Manager for WordPress by gtm4wp.com --> 
+  <!-- GTM4WP: Google Optimize Anti-flicker snippet --> 
+  <style>
+  .async-hide {
+	  opacity: 0 !important
+  }
+</style> 
+  <script>
+(function(a,s,y,n,c,h,i,d,e) {
+	s.className+=' '+y;
+	h.start=1*new Date;
+	h.end=i=function() {
+		s.className=s.className.replace(RegExp(' ?'+y),'')
+	};
+	(a[n]=a[n]||[]).hide=h;
+	setTimeout(function() {
+		i();
+		h.end=null
+	},c);
+	h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,{"GTM-WDZXTM6":true});
+</script> 
+  <!-- GTM4WP: End of Google Optimize Page Hiding snippet -->
+  <script>
+var dataLayer = dataLayer || {};
+dataLayer.push({"acf_author": ""});
+dataLayer.push({"acf_expert": ""});
+</script> 
+  <script>
+var dataLayer = dataLayer || {};
+dataLayer.push({"event_start": "24/10/2022 9:00 am"});
+dataLayer.push({"event_end": "24/10/2022 5:00 pm"});
+</script> 
+  <!-- This site is optimized with the Yoast SEO Premium plugin v19.4 (Yoast SEO v19.9) - https://yoast.com/wordpress/plugins/seo/ --> 
+  <title>New nuclear capital symposium - Atlantic Council</title> 
+  <link rel="canonical" href="https://www.atlanticcouncil.org/event/new-nuclear-capital-symposium-virtual/"> 
+  <meta property="og:locale" content="en_US"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:title" content="New nuclear capital symposium"> 
+  <meta property="og:description" content="The symposium precedes the International Atomic Energy Agency’s fifth International Ministerial Conference on Nuclear Power, and it advances a multi-disciplinary approach to financing new nuclear energy technologies."> 
+  <meta property="og:url" content="https://www.atlanticcouncil.org/event/new-nuclear-capital-symposium-virtual/"> 
+  <meta property="og:site_name" content="Atlantic Council"> 
+  <meta property="article:modified_time" content="2022-11-02T17:59:53+00:00"> 
+  <meta property="og:image" content="https://www.atlanticcouncil.org/wp-content/uploads/2022/10/Zoom_SocialShare-NNC.png"> 
+  <meta property="og:image:width" content="1920"> 
+  <meta property="og:image:height" content="1080"> 
+  <meta property="og:image:type" content="image/png"> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="twitter:label1" content="Est. reading time"> 
+  <meta name="twitter:data1" content="1 minute"> 
+  <!-- / Yoast SEO Premium plugin. --> 
+  <link rel="dns-prefetch" href="//www.atlanticcouncil.org"> 
+  <link rel="dns-prefetch" href="//unpkg.com"> 
+  <link rel="dns-prefetch" href="//s.w.org"> 
+  <link rel="alternate" type="application/rss+xml" title="Atlantic Council » Feed" href="https://www.atlanticcouncil.org/feed/"> 
+  <script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.atlanticcouncil.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script> 
+  <style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style> 
+  <link rel="stylesheet" id="wp-block-library-css" href="https://www.atlanticcouncil.org/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="GCTLP-timeline-styles-css-css" href="https://www.atlanticcouncil.org/wp-content/plugins/cool-timeline-pro/includes/gutenberg-instant-builder/dist/blocks.style.build.css?ver=6.0.3" type="text/css" media="all"> 
+  <style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style> 
+  <link rel="stylesheet" id="plyr-css" href="https://www.atlanticcouncil.org/wp-content/plugins/wplyr-media-block/assets/css/plyr.min.css?ver=3.7.2" type="text/css" media="all"> 
+  <link rel="stylesheet" id="wplyr-css" href="https://www.atlanticcouncil.org/wp-content/plugins/wplyr-media-block/assets/css/wplyr.css?ver=1.2.0" type="text/css" media="all"> 
+  <style id="wplyr-inline-css" type="text/css">
+:root { --plyr-color-main: #fca311; }
+</style> 
+<link rel="stylesheet" id="qtip2css-css" href="https://www.atlanticcouncil.org/wp-content/plugins/tooltips-pro/js/qtip3/jquery.qtip.min.css?ver=6.0.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="tooltipscss-css" href="https://www.atlanticcouncil.org/wp-content/plugins/tooltips-pro/tooltips.css?ver=6.0.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="directorycss-css" href="https://www.atlanticcouncil.org/wp-content/plugins/tooltips-pro/js/jdirectory/directory.min.css?ver=6.0.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="tooltipglobalcss-css" href="https://www.atlanticcouncil.org/wp-content/plugins/tooltips-pro/asset/css/global/tooltip/tooltips_global.css?ver=6.0.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="directorytemplates-css" href="https://www.atlanticcouncil.org/wp-content/plugins/tooltips-pro/js/jdirectory/templates/glossary-blue.css?ver=6.0.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="content-visibility-public-css" href="https://www.atlanticcouncil.org/wp-content/plugins/content-visibility/includes/public/content-visibility-public.css?ver=6.0.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="crew-theme-style-css" href="https://www.atlanticcouncil.org/wp-content/themes/atlantic-council/dist/styles/main.css?ver=202290615" type="text/css" media="all"> 
+  <link rel="stylesheet" id="cookie-notice-front-css" href="https://www.atlanticcouncil.org/wp-content/plugins/cookie-notice/css/front.min.css?ver=6.0.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="jquery-lazyloadxt-spinner-css-css" href="//www.atlanticcouncil.org/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=6.0.3" type="text/css" media="all"> 
+  <script type="text/javascript" id="cookie-notice-front-js-extra">
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/www.atlanticcouncil.org\/wp-admin\/admin-ajax.php","nonce":"d158a98b29","hideEffect":"slide","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","globalCookie":"0","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+/* ]]> */
+</script> 
+  <link rel="https://api.w.org/" href="https://www.atlanticcouncil.org/wp-json/">
+  <link rel="alternate" type="application/json" href="https://www.atlanticcouncil.org/wp-json/wp/v2/event/575663">
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.atlanticcouncil.org/xmlrpc.php?rsd"> 
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.atlanticcouncil.org/wp-includes/wlwmanifest.xml"> 
+  <meta name="generator" content="WordPress 6.0.3"> 
+  <link rel="shortlink" href="https://www.atlanticcouncil.org/?p=575663"> 
+  <link rel="alternate" type="application/json+oembed" href="https://www.atlanticcouncil.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fnew-nuclear-capital-symposium-virtual%2F"> 
+  <link rel="alternate" type="text/xml+oembed" href="https://www.atlanticcouncil.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fnew-nuclear-capital-symposium-virtual%2F&amp;format=xml"> 
+  <script type="text/javascript">
+_linkedin_partner_id = "1698650";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+  <script type="text/javascript">
+
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script> 
+  <noscript> &lt;img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1698650&amp;amp;fmt=gif"&gt; 
+  </noscript> 
+  <script>
+	function expand(param) {
+		param.style.display = (param.style.display == "none") ? "block" : "none";
+	}
+	function read_toggle(id, more, less) {
+		el = document.getElementById("readlink" + id);
+		el.innerHTML = (el.innerHTML == more) ? less : more;
+		expand(document.getElementById("read" + id));
+	}
+	</script> 
+  <style type="text/css">
+					</style> 
+  <script type="text/javascript">
+	var ajaxurl = '/wp-admin/admin-ajax.php';
+	
+	function tooltipsdate()
+	{
+			var d=new Date();
+			str='';
+			str +=d.getFullYear()+'-';
+			str +=d.getMonth()+1+'-';
+			str +=d.getDate()+'-';
+			str +=d.getHours()+'-';
+			str +=d.getMinutes()+'-';
+			str +=d.getSeconds();
+			return str; 
+	}
+	var nowtime = tooltipsdate();
+	var tooltipsClientIP = '2804:214:82cd:9fe4:95da:225c:5caa:a5cf, 172.71.10.118, 172.71.10.118';
+
+	function toolTips(whichID,theTipContent,toolTipPostID,theTipTitle, toolTipCustomizedStyle) 
+	{
+				if (typeof toolTipPostID==='undefined')
+		{
+			toolTipPostID = '0';
+		}
+
+		toolTipPostStyleName = 'ui-wordpress-tooltip-pro';
+		if (typeof toolTipCustomizedStyle==='undefined')
+		{
+			toolTipCustomizedStyle = 'ui-wordpress-tooltip-pro';
+		}
+
+			jQuery(whichID).qtip
+			(
+				{
+					content:
+					{
+													text:theTipContent,
+											},
+    				postid:toolTipPostID,  					
+					style:
+   					{
+						classes: toolTipCustomizedStyle + ' skyisblue '
+    				},
+    									position:
+    				{
+    					viewport: jQuery(window),
+    					my: 'bottom left',
+    					at: 'top right'    				},
+					show:
+						{
+												delay:0,
+						event: 'mouseover',
+												effect: function() {
+										                jQuery(this).fadeTo(200, 1);
+			                		jQuery('.qtip iframe').attr('id','stopplayingyoutube');
+			                		oldsrc =  jQuery("#stopplayingyoutube").attr("oldsrc");
+
+			                		if ('undefined' == oldsrc)
+			                		{
+
+			                		}
+			                		else
+			                		{
+
+			                			jQuery("#stopplayingyoutube").attr("src", jQuery("#stopplayingyoutube").attr("oldsrc"));
+			                		}
+			            }
+						},
+					hide:
+														{
+									fixed: true, 
+									// delay: 200,
+									delay: 200,
+									effect: function(offset) 
+									{
+										jQuery('.qtip iframe').attr('id','stopplayingyoutube');
+							 			jQuery("#stopplayingyoutube").attr("oldsrc", jQuery("#stopplayingyoutube").attr("src"));
+										 jQuery("#stopplayingyoutube").attr("src", '');
+							            jQuery(this).slideDown(100); // "this" refers to the tooltip
+}
+								}
+												
+				}
+			)
+	}
+</script> 
+  <style type="text/css">
+	.tooltips_table .tooltipsall
+	{
+		border-bottom:none !important;
+	}
+	.tooltips_table span {
+		color: inherit;
+	}
+	.qtip-content .tooltipsall
+	{
+		border-bottom:none !important;
+		color: inherit !important;
+	}
+	</style> 
+  <style type="text/css">
+	.tooltipsall:hover {
+		color: #f2783e;
+	}
+	</style> 
+  <!--[if IE]>
+    <style type="text/css">
+    .qtip {
+       filter:alpha(Opacity=100); // IE7 and below
+       -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; // IE8
+    }
+    </style>
+<![endif]--> 
+  <style type="text/css">
+    .qtip {
+        opacity: 1; 
+        -moz-opacity: 1; 
+        -webkit-opacity: 1; 
+    }
+    .ui-wordpress-tooltip-pro
+    {
+	width:400px;    
+	max-width:80%;
+    }
+    
+    	.ui-wordpress-tooltip-pro
+	{
+	color: #3d3d3d !important;
+	width:400px;
+	font-size:16px;
+	line-height:20px;
+	background-color: #ffffff  !important;
+	text-align:left  !important;
+	border-width:2px  !important;
+	border-color: #ffffff !important;
+	border-style: solid !important;
+	padding: 10px;
+	border-radius: 4px;
+	font-style: normal;
+	}
+	.qtip-content
+	{
+		text-align:left  !important;
+	}
+	.ui-wordpress-tooltip-pro a
+	{
+		color: auto  !important;
+	}	
+	.ui-wordpress-tooltip-pro
+	{
+		margin: 0px 10px 0px -6px;	
+	}
+			.tooltipglossarylinkintooltipbox a
+			{
+				color: #333;
+			}		
+					.tooltipsPopupCreditLink a
+			{
+				color: #333;
+			}		
+					.qtip-default .qtip-titlebar
+			{
+				font-size: 14px;
+				color: #81d884;
+				background-color: #3e8843;
+			}
+			.qtip-icon .ui-icon
+			{
+				padding:2px;
+			}
+						.qtip-default .qtip-icon
+			{
+				background-color: #eeee22;
+			}
+						.qtip-icon, .qtip-icon .ui-icon
+			{
+    			-moz-border-radius: 4px;
+    			-webkit-border-radius: 4px;
+    			border-radius: 4px;
+			}
+								.qtip-default .qtip-icon
+					{
+		    			color: #c43c92;
+					}
+					.qtip-default .qtip-titlebar .qtip-close
+					{
+						color: #c43c92;
+					}
+								.ui-wordpress-tooltip-pro
+			{
+				-webkit-box-shadow: 4px 4px 3px 1px rgba(0, 0, 0, 0.15);
+				-moz-box-shadow: 4px 4px 3px 1px rgba(0, 0, 0, 0.15);
+				box-shadow: 4px 4px 3px 1px rgba(0, 0, 0, 0.15);
+			}
+					.tooltipsall
+			{
+		    	border-bottom:2px dotted #888888;
+			}
+				.qtip-default
+		{
+    		border: none;
+    		background-color: initial;
+    		color: inherit;
+}			
+		}
+		</style> 
+  <style type="text/css">
+			.navitems a
+			{
+				text-decoration: none !important;
+			}
+		</style> 
+  <style type="text/css">
+                    .ctl-bullets-container {
+                display: block;
+                position: fixed;
+                bottom: 0;
+                height: 100%;
+                z-index: 1049;
+                font-weight: normal;
+                height: 70vh;
+                overflow-x: hidden;
+                overflow-y: auto;
+                margin: 15vh auto;
+            }</style> 
+  <!-- Google Tag Manager for WordPress by gtm4wp.com --> 
+  <!-- GTM Container placement set to automatic --> 
+  <script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+	var dataLayer_content = {"pageTitle":"New nuclear capital symposium - Atlantic Council","pagePostType":"event","pagePostType2":"single-event","pageCategory":["event-recap","events","nuclear-energy-policy-initiative"],"pagePostAuthor":"lbowen","pagePostDate":"October 14, 2022","pagePostDateYear":"2022","pagePostDateMonth":"10","pagePostDateDay":"14","pagePostDateDayName":"Friday","pagePostDateHour":"14","pagePostDateMinute":"21","pagePostDateIso":"2022-10-14T14:21:44-04:00","pagePostDateUnix":1665757304,"pagePostTerms":{"category":["Event Recap","Events","Nuclear Energy Policy Initiative"],"regions":["Americas","United States and Canada"],"issues":["Energy &amp; Environment","Nuclear Energy"],"programs":["Global Energy Center"],"event-type":["Online Event"]},"postID":575663,"postFormat":"standard"};
+	dataLayer.push( dataLayer_content );
+</script> 
+  <!-- GTM4WP: Load Google Optimize containers --> 
+  <meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9">
+  <meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"> 
+  <!-- GTM4WP: End of Load Google Optimize containers --> 
+  <script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDZXTM6');
+</script> 
+  <!-- End Google Tag Manager --> 
+  <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+  <link rel="icon" href="https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-150x150.png" sizes="32x32"> 
+  <link rel="icon" href="https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png" sizes="192x192"> 
+  <link rel="apple-touch-icon" href="https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png"> 
+  <meta name="msapplication-TileImage" content="https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png"> 
+  <style type="text/css">
+
+*[id^='readlink'] {
+ font-weight: normal;
+ color: #000000;
+ background: #ffffff;
+ padding: 0px;
+ border-bottom: 1px solid #000000;
+ -webkit-box-shadow: none !important;
+ box-shadow: none !important;
+ -webkit-transition: none !important;
+}
+
+*[id^='readlink']:hover {
+ font-weight: normal;
+ color: #191919;
+ padding: 0px;
+ border-bottom: 1px solid #000000;
+}
+
+*[id^='readlink']:focus {
+ outline: none;
+ color: #000000;
+}
+
+</style> 
+  <style type="text/css" id="wp-custom-css">
+			div.general-embed-bigger {
+	font-size: 2em;
+}		</style> 
+ </head> 
+ <body class="event-template-default single single-event postid-575663 cooltimeline-body group-blog new-nuclear-capital-symposium-virtual cookies-not-set"> 
+  <div id="page" class="site"> 
+   <header id="masthead" class="gta-site-header" role="banner"> 
+    <nav id="site-nav" class="gta-site-nav" role="navigation"> 
+     <div class="gta-site-nav--row"> 
+      <div class="gta-site-nav--branding"> 
+       <a href="https://www.atlanticcouncil.org/" rel="home" class="gta-site-nav--logo"> <img src="https://www.atlanticcouncil.org/wp-content/uploads/2022/03/ACYellow-adjust.png" onerror="this.src='https://www.atlanticcouncil.org/wp-content/themes/atlantic-council/dist/images/logo.png'"> </a> 
+      </div> 
+      <ul id="primary-nav" class="menu">
+       <li class="menu-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Issues</a>
+        <ul class="sub-menu">
+         <li class="menu-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://www.atlanticcouncil.org/issue/politics-diplomacy/"><span class="menu-depth-1-inner-span">Politics &amp; Diplomacy</span>
+           <div class="menu-depth-1-hover"></div></a>
+          <ul class="sub-menu">
+           <span class="menu-depth-1--sub-menu-title">Sub-issues</span>
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/politics-diplomacy/">All Politics &amp; Diplomacy</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/corruption/">Corruption</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/democratic-transitions/">Democratic Transitions</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/elections/">Elections</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.atlanticcouncil.org/politics-diplomacy/freedom-and-prosperity/">Freedom and Prosperity</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/g20/">G20</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/international-norms/">International Norms</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/media/">Media</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/political-reform/">Political Reform</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/rule-of-law/">Rule of Law</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/international-organizations/">International Organizations</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/united-nations/">United Nations</a></li> 
+          </ul> </li> 
+         <li class="menu-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://www.atlanticcouncil.org/issue/security-defense/"><span class="menu-depth-1-inner-span">Security &amp; Defense</span>
+           <div class="menu-depth-1-hover"></div></a>
+          <ul class="sub-menu">
+           <span class="menu-depth-1--sub-menu-title">Sub-issues</span>
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/security-defense/">All Security &amp; Defense</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/arms-control/">Arms Control</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/conflict/">Conflict</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/crisis-management/">Crisis Management</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/defense-industry/">Defense Industry</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/defense-policy/">Defense Policy</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/defense-technologies/">Defense Technologies</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/extremism/">Extremism</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/intelligence/">Intelligence</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/national-security/">National Security</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/nato/">NATO</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/non-traditional-threats/">Non-Traditional Threats</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/nuclear-nonproliferation/">Nuclear Nonproliferation</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/peacekeeping-and-peacebuilding/">Peacekeeping and Peacebuilding</a></li> 
+
+
+<li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/security-partnerships/">Security Partnerships</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/terrorism/">Terrorism</a></li> 
+          </ul> </li> 
+         <li class="menu-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://www.atlanticcouncil.org/issue/economy-business/"><span class="menu-depth-1-inner-span">Economy &amp; Business</span>
+           <div class="menu-depth-1-hover"></div></a>
+          <ul class="sub-menu">
+           <span class="menu-depth-1--sub-menu-title">Sub-issues</span>
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/economy-business/">All Economy &amp; Business</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/digital-currencies/">Digital Currencies</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/digital-policy/">Digital Policy</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/economic-sanctions/">Economic Sanctions</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/eurozone/">Eurozone</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/financial-regulation/">Financial Regulation</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/fiscal-and-structural-reform/">Fiscal and Structural Reform</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/future-of-work/">Future of Work</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/inclusive-growth/">Inclusive Growth</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/international-financial-institutions/">International Financial Institutions</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/international-markets/">International Markets</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/macroeconomics/">Macroeconomics</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/trade/">Trade</a></li> 
+          </ul> </li> 
+         <li class="menu-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://www.atlanticcouncil.org/issue/energy-environment/"><span class="menu-depth-1-inner-span">Energy &amp; Environment</span>
+           <div class="menu-depth-1-hover"></div></a>
+          <ul class="sub-menu">
+           <span class="menu-depth-1--sub-menu-title">Sub-issues</span>
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/energy-environment/">All Energy &amp; Environment</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/climate-change-climate-action/">Climate Change &amp; Climate Action</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/energy-markets-governance/">Energy Markets &amp; Governance</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/energy-transitions/">Energy Transitions</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/geopolitics-energy-security/">Geopolitics &amp; Energy Security</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/nuclear-energy/">Nuclear Energy</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/oil-and-gas/">Oil &amp; Gas</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/renewables-advanced-energy/">Renewables &amp; Advanced Energy</a></li> 
+          </ul> </li> 
+         <li class="menu-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://www.atlanticcouncil.org/issue/resilience-society/"><span class="menu-depth-1-inner-span">Resilience &amp; Society</span>
+           <div class="menu-depth-1-hover"></div></a>
+          <ul class="sub-menu">
+           <span class="menu-depth-1--sub-menu-title">Sub-issues</span>
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/resilience-society/">All Resilience &amp; Society</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/civil-society/">Civil Society</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/coronavirus/">Coronavirus</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/education/">Education</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/human-rights/">Human Rights</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/migration/">Migration</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/nationalism/">Nationalism</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/populism/">Populism</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/resilience/">Resilience</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/women/">Women</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/youth/">Youth</a></li> 
+          </ul> </li> 
+         <li class="menu-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://www.atlanticcouncil.org/issue/technology-innovation/"><span class="menu-depth-1-inner-span">Technology &amp; Innovation</span>
+           <div class="menu-depth-1-hover"></div></a>
+          <ul class="sub-menu">
+           <span class="menu-depth-1--sub-menu-title">Sub-issues</span>
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/technology-innovation/">All Technology &amp; Innovation</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/cybersecurity/">Cybersecurity</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/disinformation/">Disinformation</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/drones/">Drones</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/entrepreneurship/">Entrepreneurship</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/internet/">Internet</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/internet-of-things/">Internet of Things</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/issue/space/">Space</a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="menu-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Regions</a>
+        <ul class="sub-menu">
+         <li class="menu-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://www.atlanticcouncil.org/region/africa"><span class="menu-depth-1-inner-span">Africa</span>
+           <div class="menu-depth-1-hover"></div></a>
+          <ul class="sub-menu">
+           <span class="menu-depth-1--sub-menu-title">Sub-regions</span>
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/africa">All Africa</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/angola/">Angola</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/democratic-repubic-congo/">Democratic Republic of the Congo</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/east-africa/">East Africa</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/eritrea/">Eritrea</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/ethiopia/">Ethiopia</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/general-africa/">General Africa</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/morocco/">Morocco</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/nigeria/">Nigeria</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/north-and-west-africa/">North &amp; West Africa</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/sahel/">Sahel</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/south-central-africa/">South &amp; Central Africa</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/south-africa/">South Africa</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/sudan/">Sudan</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/somalia/">Somalia</a></li> 
+          </ul> </li> 
+         <li class="menu-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://www.atlanticcouncil.org/region/americas/"><span class="menu-depth-1-inner-span">Americas</span>
+           <div class="menu-depth-1-hover"></div></a>
+          <ul class="sub-menu">
+           <span class="menu-depth-1--sub-menu-title">Sub-regions</span>
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/americas">All Americas</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/united-states-canada/">United States and Canada</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/latin-america/">Latin America</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/brazil/">Brazil</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/caribbean/">Caribbean</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/colombia/">Colombia</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/cuba/">Cuba</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/Mexico/">Mexico</a></li> 
+           <li class="menu-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.atlanticcouncil.org/region/northern-triangle/">Northern Triangle</a></li> 
