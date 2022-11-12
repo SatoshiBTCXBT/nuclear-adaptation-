@@ -1,3 +1,5 @@
+NUCLEAR-<BITCOIN>/ https://g.page/amanciojsilvjr 
+
 New nuclear capital symposium
 MON, NOVEMBER 12, 2022 • 9:00 AM ET
 The symposium precedes the International Atomic Energy Agency’s fifth International Ministerial Conference on Nuclear Power, and it advances a multi-disciplinary approach to financing new nuclear energy technologies
