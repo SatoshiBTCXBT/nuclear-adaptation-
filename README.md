@@ -1,6 +1,174 @@
 # bitcoin
 ### Hi there 👋
 
+Site Logo
+New nuclear capital symposium
+MON, OCTOBER 24, 2022 • 9:00 AM ET
+The symposium precedes the International Atomic Energy Agency’s fifth International Ministerial Conference on Nuclear Power, and it advances a multi-disciplinary approach to financing new nuclear energy technologies.
+
+
+Search Atlantic Council
+FILTER RESULTS
+HIDE
+
+Please join us for the convening of the United States Nuclear Industry Council’s New Nuclear Capital (NNC) symposium, held in partnership with the Atlantic Council and C5 Capital. The focus of this year’s NNC event will be on global trade and financing of large, small modular, and advanced reactors and supporting fuel cycle technologies.
+
+The NNC symposium will take place on Monday, October 24th, 2022 and will immediately precede the International Atomic Energy Agency’s fifth International Ministerial Conference on Nuclear Power in the 21st Century in Washington, D.C., United States, from October 26th – 28th, 2022. These consecutive events will provide more opportunities and interactions to support the future of nuclear energy.
+
+Please register below to receive additional information regarding attendance at the NNC symposium. We look forward to welcoming you!
+
+Confirmed speakers
+
+Clarence “Bud” Albright
+President and Chief Executive Officer, US Nuclear Industry Council
+
+
+H.E. Mohamed Al Hammadi
+Chief Executive Officer and Managing Director, Emirates Nuclear Energy Corporation
+
+
+Sama Bilbao y León
+Director General, World Nuclear Association
+
+
+Marcia Burkey
+Executive Vice President and Chief Financial Officer, TerraPower
+
+
+Landon Derentz
+Senior Director, Atlantic Council Global Energy Center
+
+
+William Fork
+Partner, Pillsbury Winthrop Shaw Pittman
+
+
+Daniel Gabaldon
+Senior Partner, Roland Berger
+
+
+Cosmin Ghita
+Chief Executive Officer, Nuclearelectrica
+
+
+Jennifer Gordon
+Director, Nuclear Energy Policy Initiative, Atlantic Council
+
+
+Laura Hermann
+Executive Officer, Potentiary
+
+
+John Hopkins
+President and Chief Executive Officer, NuScale
+
+
+Rafał Kasprów
+Chief Executive Officer, Orlen-Synthos Green Energy
+
+
+Carl Kress
+Regional Director, Middle East, North Africa, Europe, and Eurasia/East Asia, USTDA
+
+
+Jeffrey Lyash
+President and Chief Executive Officer, Tennessee Valley Authority (TVA)
+
+
+Sydney McNiff Johnson
+Senior Advisor, Dentons; President, Galena Strategies LLC
+
+
+Paul Murphy
+Managing Director, Murphy Energy and Infrastructure Colsulting LLC
+
+
+André Pienaar
+Founder and Chief Executive Officer, C5 Capital
+
+
+Daniel Poneman
+President and Chief Executive Officer, Centrus Energy Corporation
+
+
+Marcy Sanderson
+Vice President, Industrial Applications, X-energy
+
+
+James Schaefer
+Senior Managing Director, Guggenheim Partners
+
+
+Kurt Scherer
+Managing Partner, C5 Capital
+
+
+Jigar Shah
+Director, Loan Programs Office, US Department of Energy
+
+
+Rachel Slaybaugh
+Principal, DCVC
+
+
+Christopher Sorrells
+Chief Executive Officer, Spring Valley Acquisition Corporation
+
+
+Rick Springman
+Senior Vice President of International Projects, Holtec SMR
+
+
+Tim Stone
+Chairman, Nuclear Industry Association
+
+
+Adam Rodman
+Founder and Chief Investment Officer, Segra Capital
+
+
+Caleb Ward
+Chief Operating Officer, US Nuclear Industry Council
+
+
+Ayesha Waheed
+Partner, Morgan Lewis
+
+
+Jay Wileman
+President and Chief Executive Officer, GE Hitachi Nuclear Energy
+
+
+Kreshka Young
+USGC Business Director, Energy and Climate and Climate Change, Dow Chemical Company
+
+Follow the conversation with @ACGlobalEnergy and @AtlanticCouncil using #ACEnergy
+ 
+Learn more about the Global Energy Center
+
+The Global Energy Center promotes energy security by working alongside government, industry, civil society, and public stakeholders to devise pragmatic solutions to the geopolitical, sustainability, and economic challenges of the changing global energy landscape.
+
+LEARN MORE
+ 
+   
+Join our network
+Sign up to receive expert analyses from our community on the most important global issues, rapid insights on events as they unfold, and highlights of the Council's best work.
+
+First name
+First name
+Last name
+Last name
+Email (required)
+
+
+ I agree to the Atlantic Council's privacy policy.(Required)
+Site Logo
+© 2022 Atlantic Council
+All rights reserved.
+
+Privacy Policy Cookie Policy Terms and conditions of use Intellectual Independence Policy Government Funding Review Process Policy on donor acceptance and disclosure Photo credits
+
+
 <!--
 **amanciojsilvajr/amanciojsilvajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
